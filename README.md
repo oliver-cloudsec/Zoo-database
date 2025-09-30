@@ -20,5 +20,3 @@ The following diagram illustrates the structure of the database and its relation
 
 *ERD Screenshot*  
 ![ERD](images/ERD.png)
-![Query1](images/Solicitud_herramientas.png)
-![Query2](images/estado_herramienta.png)
